@@ -26,14 +26,14 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "clone": "~0.1.11",
-    "parserlib": "~0.2.4"
+    "clone": "~0.1.18",
+    "parserlib": "~0.2.5"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.6.0",
     "grunt-contrib-concat": "~0.5.0",
-    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-copy": "~0.6.0",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-include-replace": "~1.2.0",

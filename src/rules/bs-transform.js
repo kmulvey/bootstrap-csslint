@@ -15,13 +15,16 @@ CSSLint.addRule({
         parser.addListener("property", function(event){
             var name = event.property.text.toLowerCase();
 						
-            if (name === "float"){
+            if (name === "text-transform"){
                 var value = event.value.text.toLowerCase();
-								if(value === "left"){
-								    reporter.report("Use .pull-left with bootstrap.", event.line, event.col, rule);
+								if(value === "lowercase"){
+								    reporter.report("Use .text-lowercase with bootstrap.", event.line, event.col, rule);
                 }
-								else if(value === "right"){
-								    reporter.report("Use .pull-right with bootstrap.", event.line, event.col, rule);
+								else if(value === "uppercase"){
+								    reporter.report("Use .text-uppercase with bootstrap.", event.line, event.col, rule);
+                }
+								else if(value === "capitalize"){
+								    reporter.report("Use .text-capitalize with bootstrap.", event.line, event.col, rule);
                 }
 						}
         });

@@ -1,18 +1,18 @@
 {
-  "name": "csslint",
-  "version": "0.10.0",
-  "description": "CSSLint",
+  "name": "bootstrap-csslint",
+  "version": "0.0.1",
+  "description": "CSSLint for Bootstrap",
   "author": "Nicole Sullivan",
   "contributors": [
-    "Nicholas C. Zakas"
+    "Nicholas C. Zakas",
+    "Kevin Mulvey"
   ],
-  "homepage": "http://csslint.net/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CSSLint/csslint.git"
+    "url": "git@github.com:kmulvey/bootstrap-csslint.git"
   },
   "bugs": {
-    "url": "https://github.com/CSSLint/csslint/issues"
+    "url": "https://github.com/kmulvey/bootstrap-csslint/issues"
   },
   "license": {
     "type": "MIT",

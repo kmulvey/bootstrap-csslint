@@ -36,7 +36,7 @@
     "grunt-contrib-copy": "~0.6.0",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-watch": "~0.6.1",
-    "grunt-include-replace": "~1.2.0",
+    "grunt-include-replace": "~2.0.0",
     "yuitest": "~0.7.9"
   },
   "engines": {

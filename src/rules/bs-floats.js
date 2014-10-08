@@ -22,10 +22,10 @@ CSSLint.addRule({
             if (name === "float"){
                 var value = event.value.text.toLowerCase();
 								if(value === "left"){
-								    reporter.report("Use .pull-left.", event.line, event.col, rule);
+								    reporter.report("Use .pull-left with bootstrap.", event.line, event.col, rule);
                 }
 								else if(value === "right"){
-								    reporter.report("Use .pull-right.", event.line, event.col, rule);
+								    reporter.report("Use .pull-right with bootstrap.", event.line, event.col, rule);
                 }
 						}
         });

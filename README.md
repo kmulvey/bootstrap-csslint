@@ -1,8 +1,7 @@
 [![NPM version](https://badge.fury.io/js/csslint.svg)](http://badge.fury.io/js/csslint)
 [![build status](https://secure.travis-ci.org/kmulvey/bootstrap-csslint.svg)](http://travis-ci.org/kmulvey/bootstrap-csslint)
 [![Dependency Status](https://david-dm.org/CSSLint/csslint.svg?theme=shields.io)](https://david-dm.org/CSSLint/csslint)
-[![devDependency Status](https://david-dm.org/CSSLint/csslint/dev-status.svg?theme=shields.io)](https://david-dm.org/CSSLint/csslint#info=devDependencies)
-
+[![devDependency Status](https://david-dm.org/kmulvey/bootstrap-csslint/dev-status.svg)](https://david-dm.org/kmulvey/bootstrap-csslint#info=devDependencies)
 # CSSLint
 
 CSSLint is an open source CSS code quality tool originally written by 
